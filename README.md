@@ -1,11 +1,9 @@
-<a name="readme-top"></a>
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
+
+# Access the mongodb uri below for setting this application in local environment
+
+# .env
+MONGODB_URI=mongodb+srv://suman:suman@cluster0.qpyjtjh.mongodb.net/?retryWrites=true&w=majority
 
 <!-- PROJECT LOGO -->
 <br />
@@ -20,31 +18,6 @@
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-    <a href="#Sample-images-from-postman">Sample Images</a>
-    </li>
-    <li><a href="#project-structure">Project Structure</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#configure">Configure</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 
 
@@ -153,36 +126,6 @@ Here you have to make some configuraiton to run this project on your system
     ```
 2. Now all configurations has been completed, run below command in terminal to run the application
     ```
-    npm start or node app.js
+    npm start 
     ```
 
-
-image of localhost8000
-Habit-tracker-master\Habit-tracker-master new project\assets\images\WhatsApp Image 2023-05-02 at 19.42.29.jpeg
-Habit-tracker-master\Habit-tracker-master new project\assets\images\WhatsApp Image 2023-05-02 at 19.42.54.jpeg
-Habit-tracker-master\Habit-tracker-master new project\assets\images\WhatsApp Image 2023-05-02 at 19.43.27.jpeg
-<!-- CONTACT -->
-## Contact
-In Case of any issue related to project setup or anything please contact me on narendrasingh995650@gmail.com
-
-Narendra singh -https://www.linkedin.com/in/narendra-singh-727b511b1
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-
-* [Open Source License](https://choosealicense.com)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[linkedin-url]:https://www.linkedin.com/in/narendra-singh-727b511b1
-
-[habit-details-screenshot]: Habit-tracker-master\Habit-tracker-master new project\assets\images\Home.jpeg"
